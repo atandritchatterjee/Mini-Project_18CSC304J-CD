@@ -1,0 +1,15 @@
+a+b+c
+a-b-c
+a*b*c
+a/b/c
+a+b*c
+b*c-e
+e*f/g
+c/d-e
+f+g/h
+b-c/e
+d*e-f
+d-e+f
+c/d*j
+c+d/e
+b/c*d
